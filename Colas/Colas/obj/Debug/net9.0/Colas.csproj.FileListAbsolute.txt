@@ -1,0 +1,14 @@
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\MensajeriaColas\Colas\Colas\bin\Debug\net9.0\Colas.exe
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\MensajeriaColas\Colas\Colas\bin\Debug\net9.0\Colas.deps.json
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\MensajeriaColas\Colas\Colas\bin\Debug\net9.0\Colas.runtimeconfig.json
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\MensajeriaColas\Colas\Colas\bin\Debug\net9.0\Colas.dll
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\MensajeriaColas\Colas\Colas\bin\Debug\net9.0\Colas.pdb
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\MensajeriaColas\Colas\Colas\obj\Debug\net9.0\Colas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\MensajeriaColas\Colas\Colas\obj\Debug\net9.0\Colas.AssemblyInfoInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\MensajeriaColas\Colas\Colas\obj\Debug\net9.0\Colas.AssemblyInfo.cs
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\MensajeriaColas\Colas\Colas\obj\Debug\net9.0\Colas.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\MensajeriaColas\Colas\Colas\obj\Debug\net9.0\Colas.dll
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\MensajeriaColas\Colas\Colas\obj\Debug\net9.0\refint\Colas.dll
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\MensajeriaColas\Colas\Colas\obj\Debug\net9.0\Colas.pdb
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\MensajeriaColas\Colas\Colas\obj\Debug\net9.0\Colas.genruntimeconfig.cache
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\MensajeriaColas\Colas\Colas\obj\Debug\net9.0\ref\Colas.dll
