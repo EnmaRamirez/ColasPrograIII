@@ -1,7 +1,9 @@
 Este es un Programa que implementa un sistema de colas en C# Basado en Programacion Orientado a Objetos (POO), utilizando el principio de inversion de dependencias los cuales se pueden cambiar de manera sencilla los proveedores de colas mediante la interfaz llamada IQueueService.
 
 Interfaz IQueueService: define las operaciones basicas de la cola.
+
 RabbitMQService: es proveedor de cola.
+
 QueueManajer: Logica de enclonado y desenclonado.
 
 Requisitos a utilizar antes de crear este programa;
