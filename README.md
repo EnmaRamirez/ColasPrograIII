@@ -11,9 +11,13 @@ Requisitos a utilizar antes de crear este programa;
 2) Visual studio en su actualizacion más reciente
 
 Uso de ejecución.
+
 Compilar y ejecutar
+
 Aparecera un interfaz con 3 proveedores de cola, RabbitMQ, Amazon SQS, Azure
+
 Seleccionamos el proveedor de cola
+
 Enviar mensaje
 
 Cambiar entre proveedores.
